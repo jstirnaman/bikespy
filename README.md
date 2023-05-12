@@ -16,5 +16,8 @@
 
 1. Download bike pics from the archives
    ```sh
-   node scrapers/index.js
-
+   cd scrapers && npm install
+   ```
+   ```sh
+   node index.js
+   ```
