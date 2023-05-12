@@ -1,0 +1,7 @@
+scrapers/images/*.jpeg
+scrapers/images/*.jpg
+*.swp
+envs
+img-training
+data
+node_modules
